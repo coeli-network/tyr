@@ -1,0 +1,1 @@
+// Memory arena for nouns.
